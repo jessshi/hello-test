@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jessshi/hello-test.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/jessshi/hello-test.git/static/js/main.ef0d9c09.chunk.js",
+    "main.js.map": "/jessshi/hello-test.git/static/js/main.ef0d9c09.chunk.js.map",
+    "runtime-main.js": "/jessshi/hello-test.git/static/js/runtime-main.60bf937f.js",
+    "runtime-main.js.map": "/jessshi/hello-test.git/static/js/runtime-main.60bf937f.js.map",
+    "static/js/2.5bb99f2d.chunk.js": "/jessshi/hello-test.git/static/js/2.5bb99f2d.chunk.js",
+    "static/js/2.5bb99f2d.chunk.js.map": "/jessshi/hello-test.git/static/js/2.5bb99f2d.chunk.js.map",
+    "static/js/3.577e0511.chunk.js": "/jessshi/hello-test.git/static/js/3.577e0511.chunk.js",
+    "static/js/3.577e0511.chunk.js.map": "/jessshi/hello-test.git/static/js/3.577e0511.chunk.js.map",
+    "index.html": "/jessshi/hello-test.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/jessshi/hello-test.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5bb99f2d.chunk.js.LICENSE.txt": "/jessshi/hello-test.git/static/js/2.5bb99f2d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jessshi/hello-test.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60bf937f.js",
+    "static/js/2.5bb99f2d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ef0d9c09.chunk.js"
+  ]
+}
